@@ -5,7 +5,7 @@
 # Hayato Tomiya
 # JihanYu Li
 # Yoshizumi Hitoshi
-# Shogo Tomura
+# Shogo Tamura
 # Toshiyuki Kurakawa
 # Toshimichi Saekane
 # yumikoch
