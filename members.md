@@ -3,7 +3,7 @@
 # Naritaka Takeda
 # atwtrt
 # Hayato Tomiya
-# JihanYu Li
+# JianYu Li
 # Yoshizumi Hitoshi
 # Shogo Tomura
 # Toshiyuki Kurakawa
