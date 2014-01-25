@@ -7,7 +7,7 @@
 # Yoshizumi Hitoshi
 # Shogo Tomura
 # Toshiyuki Kurakawa
-# Toshimichi Saekane
+# Toshimichi Suekane
 # yumikoch
 # kuronekonichael
 # nico2neco3
