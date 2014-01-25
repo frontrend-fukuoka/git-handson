@@ -13,4 +13,4 @@
 # nico2neco3
 # Yushinori Kanemaki
 # Asaki Oogai
-# Kazunori Hara
+# Kazunari Hara
